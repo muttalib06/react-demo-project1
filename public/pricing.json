@@ -1,0 +1,39 @@
+{
+  "plans": [
+    {
+      "id": 1,
+      "name": "Basic",
+      "price": "$10/month",
+      "features": [
+        "5 Projects",
+        "10 GB Storage",
+        "Basic Support"
+      ],
+      "buttonText": "Get Started"
+    },
+    {
+      "id": 2,
+      "name": "Standard",
+      "price": "$25/month",
+      "features": [
+        "15 Projects",
+        "50 GB Storage",
+        "Priority Support",
+        "Team Collaboration"
+      ],
+      "buttonText": "Choose Plan"
+    },
+    {
+      "id": 3,
+      "name": "Premium",
+      "price": "$50/month",
+      "features": [
+        "Unlimited Projects",
+        "200 GB Storage",
+        "24/7 Support",
+        "Advanced Analytics"
+      ],
+      "buttonText": "Go Premium"
+    }
+  ]
+}
